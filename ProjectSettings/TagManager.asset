@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CanBePickedUp
+  - VirtualCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Projectiles
+  - Bodies
+  - Detectors
+  - 
+  - Player
+  - Enemies
+  - Consumables
+  - Obstacles
+  - Ammo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Action
+    uniqueID: 94419055
+    locked: 0
+  - name: Background
+    uniqueID: 2564813989
+    locked: 0
+  - name: Platforms
+    uniqueID: 3808183435
+    locked: 0
+  - name: Player
+    uniqueID: 743221753
+    locked: 0
+  - name: Foreground
+    uniqueID: 3356635457
+    locked: 0
+  - name: Ground
+    uniqueID: 4120634953
+    locked: 0
+  - name: Objects
+    uniqueID: 831980037
+    locked: 0
+  - name: Characters
+    uniqueID: 2740354219
+    locked: 0

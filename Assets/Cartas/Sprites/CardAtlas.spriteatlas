@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fc46ac156d999a64f99a60e676bc4f39, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4183ca665ad4ba5418a6f03d08160933, type: 3}
+  - {fileID: 21300000, guid: ba9d59e610d4ca349bd73ae6db1aebb2, type: 3}
+  - {fileID: 21300000, guid: b4f1a407b67734441863e8c25a1e2f46, type: 3}
+  - {fileID: 21300000, guid: 0ebb09a76dc53ed428e79207342765b6, type: 3}
+  - {fileID: 21300000, guid: 32704f1b6d63864458442de9ce4878c6, type: 3}
+  - {fileID: 21300000, guid: 0742581c5fa9cd4469d63338623cb33d, type: 3}
+  - {fileID: 21300000, guid: 40c3c27c73557bc4fb2cebd67cb79491, type: 3}
+  - {fileID: 21300000, guid: ae4765edc48ead0458bb6d1e726ee4c0, type: 3}
+  - {fileID: 21300000, guid: 924c1c9efb43fc8458324a4bc4e0ddfe, type: 3}
+  - {fileID: 21300000, guid: 1acc8a0f3aa17d24d83fea33595d137f, type: 3}
+  - {fileID: 21300000, guid: 5601a8cff99458f4785c11d6c7a01e39, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - c1
+  - reset
+  - background
+  - c3
+  - c2
+  - ace_of_spades2
+  - back
+  - ace_of_hearts
+  - c4
+  - ace_of_clubs
+  - ace_of_diamonds
+  m_RenderDataMap: {}
+  m_Tag: CardAtlas
+  m_IsVariant: 0
